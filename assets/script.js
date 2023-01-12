@@ -1,3 +1,3 @@
-$(document).ready(function(){
-    alert('Hello SE1634');
-});
+// $(document).ready(function(){
+//     alert('Hello SE1634');
+// });
